@@ -1,9 +1,21 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Georgia Institute of Technology
+  dates: January 2018 - May 2020
+  qualification: Master of Science in Computer Science
   quote: >
-    Short institution or course description (optional)
+    Machine Learning Concentration
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+      Coursework in ML & AI:
+        - Machine Learning (CS 7641)
+        - Machine Learning for Trading (CS 7646)
+        - Artificial Intelligence (CS 6601)
+        - Artificial Intelligence for Robotics (CS 7638)
+        - Knowledge-Based Artificial Intelligence - Cognitive Systems (CS 7637)
+        - Reinforcement Learning and Decision Making (CS 7642)
+
+        Other CS courses:
+          - Data and Visual Analytics (CSE 6242)
+          - Database Systems Concepts and Design (CS 6400)
+          - Computer Networks (CS 6250)
+          - Graduate Algorithms (CS 6515)

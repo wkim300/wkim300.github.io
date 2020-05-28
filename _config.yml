@@ -51,10 +51,18 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Woojae Kim, an engineer and a machine learning enthusiast. I have over 6 years of experience as an engineering consultant, based in New York [(Ove Arup & Partners)](https://www.arup.com/) and in Seoul.
   Throughout my professional & academic life (including PhD), my focus has been computational modeling of real-world problems (e.g. heat-transfer model of baking of stuffed turkey for thanksgiving).
 
+
   Oddly though, my interest and coursework in optimization methods have naturally led me to pursue further study in computer science. I have recently earned a M.S. in CS from Georgia Tech with [concentration in Machine Learning](https://omscs.gatech.edu/specialization-machine-learning).
 
-  I have tried to complment my academic knowledge with more practical aspects of machine learning by completing various MOOCS:
-    - [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/verify/MTYV99C7PET6)
+
+  I have also tried to complment my academic knowledge with more practical aspects of machine learning by completing various MOOCS:
+    - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/MTYV99C7PET6) by Stanford University (Prof. Andrew Ng)
+    - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/RJE49R7Q6X3L) by Coursera (Prof. Andrew Ng)
+    - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/3SYYZBBRXHDT) by Coursera
+    - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/3TRZJKQKP78J) by Coursera
+    - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/ZYGEA5GEQPNN) by Coursera
+    - [Sequence Models](https://www.coursera.org/account/accomplishments/verify/DXGTET8PR3VY) by Coursera
+    - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/GU2YHQECL475) by Coursera
 
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 

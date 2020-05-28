@@ -5,9 +5,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Woojae Kim
 title: |
-  Engineer, M.S. in Computer Science & M.S. in Mechanical Engineering
+  Aspiring Data Scientist with M.S. in Computer Science & Mechanical Engineering
 
-  Machine learning enthusiast
 email: jkim7657@gmail.com
 phone: +82 10-2628-8651
 website: https://wkim300.github.io/
@@ -31,10 +30,10 @@ linkedin_username: woojae-kim-4a31b72a
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,13 +48,21 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name is Woojae Kim, an engineer and a machine learning enthusiast. I have over 6 years of experience as an engineering consultant, based in New York [(Ove Arup & Partners)](https://www.arup.com/) and in Seoul.
+  Throughout my professional & academic life (including PhD), my focus has been computational modeling of real-world problems (e.g. heat-transfer model of baking of stuffed turkey for thanksgiving).
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Oddly though, my interest and coursework in optimization methods have naturally led me to pursue further study in computer science. I have recently earned a M.S. in CS from Georgia Tech with [concentration in Machine Learning](https://omscs.gatech.edu/specialization-machine-learning).
+
+  I have tried to complment my academic knowledge with more practical aspects of machine learning by completing various MOOCS:
+    - [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/verify/MTYV99C7PET6)
+
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

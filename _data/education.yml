@@ -2,20 +2,22 @@
 - layout: left
   name: Georgia Institute of Technology
   dates: January 2018 - May 2020
-  qualification: Master of Science in Computer Science
-  quote: >
-    Machine Learning Concentration
+  qualification: M.S.CS
+  #quote: >
+  #  Machine Learning Concentration
   description: | # this will include new lines to allow paragraphs
-      Coursework in ML & AI:
-        - Machine Learning (CS 7641)
-        - Machine Learning for Trading (CS 7646)
-        - Artificial Intelligence (CS 6601)
-        - Artificial Intelligence for Robotics (CS 7638)
-        - Knowledge-Based Artificial Intelligence - Cognitive Systems (CS 7637)
-        - Reinforcement Learning and Decision Making (CS 7642)
+    Master of Science in Computer Science (non-thesis option), concentration in <mark>Machine Learning</mark> with emphasis on <mark>AI</mark> and <mark>Visual Analytics</mark>.
 
-        Other CS courses:
-          - Data and Visual Analytics (CSE 6242)
-          - Database Systems Concepts and Design (CS 6400)
-          - Computer Networks (CS 6250)
-          - Graduate Algorithms (CS 6515)
+    Coursework in ML & AI:
+      - Machine Learning (CS 7641)
+      - Machine Learning for Trading (CS 7646)
+      - Artificial Intelligence (CS 6601)
+      - Artificial Intelligence for Robotics (CS 7638)
+      - Knowledge-Based Artificial Intelligence - Cognitive Systems (CS 7637)
+      - Reinforcement Learning and Decision Making (CS 7642)
+
+    Others:
+      - Data and Visual Analytics (CSE 6242)
+      - Database Systems Concepts and Design (CS 6400)
+      - Computer Networks (CS 6250)
+      - Graduate Algorithms (CS 6515)

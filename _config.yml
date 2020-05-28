@@ -4,7 +4,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Woojae Kim
-title: Engineer, M.S. in Computer Science & M.S. in Mechanical Engineering
+title: |
+  Engineer, M.S. in Computer Science & M.S. in Mechanical Engineering
+
+  Machine learning enthusiast
 email: jkim7657@gmail.com
 phone: +82 10-2628-8651
 website: https://wkim300.github.io/

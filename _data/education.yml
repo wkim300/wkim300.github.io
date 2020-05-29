@@ -2,7 +2,7 @@
 - layout: left
   name: Georgia Institute of Technology
   dates: January 2018 - May 2020
-  qualification: M.S.CS
+  qualification: M.S. Computer Science
   #quote: >
   #  Machine Learning Concentration
   description: | # this will include new lines to allow paragraphs
@@ -21,3 +21,46 @@
       - Database Systems Concepts and Design (CS 6400)
       - Computer Networks (CS 6250)
       - Graduate Algorithms (CS 6515)
+
+- layout: left
+  name: University of Illinois at Urbana-Champaign (UIUC)
+  dates: August 2015 - June 2017 (on a leave)
+  qualification: PhD in Mechanical Engineering
+  #quote: >
+  #  Machine Learning Concentration
+  description: | # this will include new lines to allow paragraphs
+    At UIUC, performed research under professor [Martin Ostoja-Starzewski](https://scholar.google.com/citations?user=TTnw020AAAAJ&hl=en&oi=ao).
+
+    Research Topic: Heat transfer in nonlinear materials. Used hyperbolic heat conduction equation (Maxwell-Cattaneo) to model heat conduction in various types of tissues.
+    The goal of the project was to have better control of electrosurgical process by developing an active control-feedback system for assisted robotic electrosurgery.
+    Designed and conducted experiments to validate superposition of thermal waves in biological tissues (pork meat) and compared the experimental results with analytical models.
+
+    Coursework:
+      - Intro to Optimization (ECE 490)
+      - Mathematical Methods II (TAM 542)
+      - Numerical Fluid and Thermodynamics (ME 412)
+      - Intro to Finite Element Methods (ME 471)
+      - Viscous Flow (TAM 532)
+      - Advanced Continuum Mechanics (TAM 545)
+      - Solid Mechanics (TAM 551)
+      - Intermediate Solid Mechanics (TAM 451)
+
+- layout: left
+  name: The Cooper Union
+  dates: August 2013 - May 2015
+  qualification: M.Eng. Mechanical Engineering
+  #quote: >
+  #  Machine Learning Concentration
+  description: | # this will include new lines to allow paragraphs
+    Master of Engineering in Mechannical Engineering, concenratio in Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA)
+
+    Thesis: [Investigatinng Thermal Performance of Double-skin Perforated-sheet Facade Using Multi-scale Approach](http://cooper.edu/sites/default/files/uploads/assets/engineering/files/2016/MasterTheses/WK_MSThesis_F.4.pdf)
+
+- layout: left
+  name: The Cooper Union
+  dates: August 2009 - May 2013
+  qualification: B.S. Mechanical Engineering
+  #quote: >
+  #  Machine Learning Concentration
+  description: | # this will include new lines to allow paragraphs
+    Bachelor in Mechanical Engineering from Cooper Union in NY, NY

@@ -48,16 +48,16 @@ linkedin_username: woojae-kim-4a31b72a
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Woojae Kim, an engineer and a machine learning enthusiast. I have over 6 years of experience as an engineering consultant, based in New York [(Ove Arup & Partners)](https://www.arup.com/) and in Seoul.
+  Hi, my name is Woojae Kim, an engineer and a machine learning enthusiast. I have over 6 years of experience as an engineering consultant, based in New York [(Arup)](https://www.arup.com/) and in Seoul.
 
 
   Throughout my professional & academic life, my focus has been computational modeling of real-world problems.
-  Oddly though, my interest and coursework in optimization methods have naturally led me to pursue further study in computer science. I have recently earned a M.S. in CS from Georgia Tech with [concentration in Machine Learning(ML)](https://omscs.gatech.edu/specialization-machine-learning).
+  Oddly though, my interest and coursework in optimization methods have naturally led me to pursue further study in computer science. I have recently earned a M.S. in CS from Georgia Tech with [concentration in Machine Learning (ML)](https://omscs.gatech.edu/specialization-machine-learning).
   Throughout the years, I have gained experience in <mark>Python</mark>, <mark>Java</mark>, <mark>MySQL</mark> and <mark>R</mark>.
   In terms of ML packages, I have extensively used: <mark>Numpy</mark>, <mark>Pandas</mark>, <mark>Scikit-Learn</mark>, <mark>Pytorch</mark>, <mark>Tensorflow</mark>, <mark>Keras</mark> and <mark>BURLAP(Java)</mark>
 
 
-  I have also tried to complment my academic knowledge with more practical aspects of machine learning by completing various MOOCS:
+  I have also tried to compelment my academic knowledge with more practical aspects of machine learning by completing various MOOCS:
     - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/MTYV99C7PET6) by Stanford University (Prof. Andrew Ng)
     - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/RJE49R7Q6X3L) by Coursera (Prof. Andrew Ng)
     - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/3SYYZBBRXHDT) by Coursera

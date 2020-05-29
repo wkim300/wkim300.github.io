@@ -6,9 +6,9 @@
   #quote: >
   #  Machine Learning Concentration
   description: | # this will include new lines to allow paragraphs
-    Master of Science in Computer Science (non-thesis option), concentration in <mark>Machine Learning</mark> with emphasis on <mark>AI</mark> and <mark>Visual Analytics</mark>.
+    Master of Science in Computer Science (non-thesis option), **concentration in Machine Learning** with emphasis on **AI** and **Visual Analytics**.
 
-    Coursework in ML & AI:
+    **Coursework in ML & AI:**
       - Machine Learning ([CS 7641](https://omscs.gatech.edu/cs-7641-machine-learning))
       - Machine Learning for Trading ([CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading))
       - Artificial Intelligence ([CS 6601](https://omscs.gatech.edu/cs-6601-artificial-intelligence))
@@ -16,7 +16,7 @@
       - Knowledge-Based Artificial Intelligence - Cognitive Systems ([CS 7637](https://omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems))
       - Reinforcement Learning and Decision Making ([CS 7642](https://omscs.gatech.edu/cs-7642-reinforcement-learning))
 
-    Others:
+    **Others:**
       - Data and Visual Analytics ([CSE 6242](https://omscs.gatech.edu/cse-6242-data-visual-analytics))
       - Database Systems Concepts and Design ([CS 6400](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design))
       - Computer Networks ([CS 6250](https://omscs.gatech.edu/cs-6250-computer-networks))
@@ -31,11 +31,11 @@
   description: | # this will include new lines to allow paragraphs
     At UIUC, performed research under professor [Martin Ostoja-Starzewski](https://scholar.google.com/citations?user=TTnw020AAAAJ&hl=en&oi=ao).
 
-    Research Topic: Heat transfer in nonlinear materials. Used hyperbolic heat conduction equation (Maxwell-Cattaneo) to model heat conduction in various types of tissues.
+    **Research Topic:** Heat transfer in nonlinear materials. Used hyperbolic heat conduction equation (Maxwell-Cattaneo) to model heat conduction in various types of tissues.
     The goal of the project was to have better control of electrosurgical process by developing an active control-feedback system for assisted robotic electrosurgery.
     Designed and conducted experiments to validate superposition of thermal waves in biological tissues (pork meat) and compared the experimental results with analytical models.
 
-    Coursework:
+    **Coursework:**
       - Intro to Optimization (ECE 490)
       - Mathematical Methods II (TAM 542)
       - Numerical Fluid and Thermodynamics (ME 412)
@@ -52,7 +52,7 @@
   #quote: >
   #  Machine Learning Concentration
   description: | # this will include new lines to allow paragraphs
-    Master of Engineering in Mechannical Engineering, concenratio in Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA)
+    Master of Engineering in Mechannical Engineering, concentration in **Computational Fluid Dynamics (CFD)** and **Finite Element Analysis (FEA)**.
 
     Thesis: [Investigatinng Thermal Performance of Double-skin Perforated-sheet Facade Using Multi-scale Approach](http://cooper.edu/sites/default/files/uploads/assets/engineering/files/2016/MasterTheses/WK_MSThesis_F.4.pdf)
 

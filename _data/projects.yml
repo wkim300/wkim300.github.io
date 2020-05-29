@@ -1,9 +1,16 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: Yuikhan Air-purifying Robot
+  link: https://yuikhan.life
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    I have teamed up with my former classmates at UIUC to design and prototype an **air-purifying robot, Yuikhan** (유익한 로봇).
+    Yuikhan is a smarter version of robotic vacuum-for air quality control.
+    It autonomously creates map of the living space using **LiDAR** and **SLAM** technology.
+    **After recogizing your space, it then purifies the space based on indoor air quality map that it has generated**.
+    We have built the robot from scratch using a 3D-printer and off-the-shelf components.
+    We then integrated the hardware to and the cleaning algorithm through **Robotic Operating System (ROS)**.
+    We have a working protype of the device which syncs with a mobile application for direct control.
+    See our [landing page](https://yuikhan.life) for more information.

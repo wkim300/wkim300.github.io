@@ -1,10 +1,46 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: ECODA
+  link: http://www.ecoda.kr/
+  job_title: Research Scientist/Systems Engineer
+  dates: October 2017 - Present
+  # quote: >
+  #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    As part of **military service (병역특례)**, I am working as a research scientist to **develop & deploy Building Energy Management Systems (BEMS)**.
+
+    BEMS is a **software for monitoring, analyzing and controlling energy-consuming equipments** in buildings, such as heating, ventilation and air conditioning (HVAC), lighting and power systems.
+    Due to its **multidisciplinary** nature, BEMS engineering requires understanding and knowledge in various areas, including **software engineering, electrical engineering, computer network and mechanical engineering**.
+    I have collaborated with **Samsung Electronics** and **Samsung SDS** to test & deploy their [BEMS software](https://www.samsung.com/sec/business/b-iot-solutions/b-iot-solution/) on various [buildings](https://www.samsung.com/sec/business/insights/case-study/reference-sungsin/) in South Korea, as part of government-funded research project.
+
+- layout: left
+  company: University of Illinois at Urbana-Champaign (UIUC)
+  job_title: Research Asistant & Teaching Assitant
+  dates: August 2015 - July 2017
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    As an Research Assistant, performed **research in computational mechanics** under professor [Martin Ostoja-Starzewski](https://scholar.google.com/citations?user=TTnw020AAAAJ&hl=en&oi=ao).
+
+    **Research Topic:** Modeling of **Heat transfer in nonlinear materials**. Used hyperbolic heat conduction equation (Maxwell-Cattaneo) to model heat conduction in various types of tissues.
+    The goal of the project was to have better control of electrosurgical process by developing an active control-feedback system for assisted robotic electrosurgery.
+    Designed and conducted experiments to validate superposition of thermal waves in biological tissues (pork meat) and compared the experimental results with analytical models.
+
+    As a teaching assistant, taught & supervised lab sessions for [ME330:Engineering Materials](https://mechanical.illinois.edu/courses/profile/ME330).
+
+- layout: left
+  company: Arup
+  link: https://www.arup.com/
+  job_title: Engineer
+  dates: June 2012 - July 2015
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    As part of **Facade & Building Physics** team at Arup, performed **numerical analysis (CFD and FEA)** on complex facade systems to validate their thermal & structural performances.
+
+    Proficient in various engineering softwares:
+      - MATLAB
+      - ANSYS Fluent & Mechanical APDL
+      - Hypermesh
+      - LS-DYNA
+      - Solidworks

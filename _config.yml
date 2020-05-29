@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   Throughout my professional & academic life, my focus has been computational modeling of real-world problems.
   Oddly though, my interest and coursework in optimization methods have naturally led me to pursue further study in computer science. I have recently earned a M.S. in CS from Georgia Tech with [concentration in Machine Learning (ML)](https://omscs.gatech.edu/specialization-machine-learning).
   Throughout the years, I have gained experience in <mark>Python</mark>, <mark>Java</mark>, <mark>MySQL</mark> and <mark>R</mark>.
-  In terms of ML packages, I have extensively used: <mark>Numpy</mark>, <mark>Pandas</mark>, <mark>Scikit-Learn</mark>, <mark>Pytorch</mark>, <mark>Tensorflow</mark>, <mark>Keras</mark> and <mark>BURLAP(Java)</mark>
+  In terms of ML packages, I have extensively used: <mark>Numpy</mark>, <mark>Pandas</mark>, <mark>Matplotlib</mark>, <mark>Scikit-Learn</mark>, <mark>Pytorch</mark>, <mark>Tensorflow</mark>, <mark>Keras</mark> and <mark>BURLAP(Java)</mark>
 
 
   I have also tried to compelment my academic knowledge with more practical aspects of machine learning by completing various MOOCS:

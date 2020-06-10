@@ -9,18 +9,18 @@
     Master of Science in Computer Science (non-thesis option), **concentration in Machine Learning** with emphasis on **AI** and **Visual Analytics**.
 
     **Coursework in ML & AI:**
-      - Machine Learning ([CS 7641](https://omscs.gatech.edu/cs-7641-machine-learning))
-      - Machine Learning for Trading ([CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading))
-      - Artificial Intelligence ([CS 6601](https://omscs.gatech.edu/cs-6601-artificial-intelligence))
+      - **Machine Learning** ([CS 7641](https://omscs.gatech.edu/cs-7641-machine-learning))
+      - **Machine Learning for Trading** ([CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading))
+      - **Artificial Intelligence** ([CS 6601](https://omscs.gatech.edu/cs-6601-artificial-intelligence))
       - Artificial Intelligence for Robotics ([CS 7638](https://omscs.gatech.edu/cs-7638-artificial-intelligence-robotics))
       - Knowledge-Based Artificial Intelligence - Cognitive Systems ([CS 7637](https://omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems))
-      - Reinforcement Learning and Decision Making ([CS 7642](https://omscs.gatech.edu/cs-7642-reinforcement-learning))
+      - **Reinforcement Learning and Decision Making** ([CS 7642](https://omscs.gatech.edu/cs-7642-reinforcement-learning))
 
     **Others:**
       - Data and Visual Analytics ([CSE 6242](https://omscs.gatech.edu/cse-6242-data-visual-analytics))
       - Database Systems Concepts and Design ([CS 6400](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design))
-      - Computer Networks ([CS 6250](https://omscs.gatech.edu/cs-6250-computer-networks))
-      - Graduate Algorithms ([CS 6515](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms))
+      - **Computer Networks** ([CS 6250](https://omscs.gatech.edu/cs-6250-computer-networks))
+      - **Graduate Algorithms** ([CS 6515](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms))
 
 - layout: left
   name: University of Illinois at Urbana-Champaign (UIUC)
@@ -29,18 +29,13 @@
   #quote: >
   #  Machine Learning Concentration
   description: | # this will include new lines to allow paragraphs
-    At UIUC, performed research under professor [Martin Ostoja-Starzewski](https://scholar.google.com/citations?user=TTnw020AAAAJ&hl=en&oi=ao), 
+    At UIUC, performed research under professor [Martin Ostoja-Starzewski](https://scholar.google.com/citations?user=TTnw020AAAAJ&hl=en&oi=ao),
     **concentration in Computational Mechanics and Numerical Methods**.
 
-    **Coursework:**
-      - Intro to Optimization (ECE 490)
-      - Mathematical Methods II (TAM 542)
-      - Numerical Fluid and Thermodynamics (ME 412)
-      - Intro to Finite Element Methods (ME 471)
-      - Viscous Flow (TAM 532)
-      - Advanced Continuum Mechanics (TAM 545)
-      - Solid Mechanics (TAM 551)
-      - Intermediate Solid Mechanics (TAM 451)
+    **Coursework include:**
+      - **Intro to Optimization** (ECE 490)
+      - **Mathematical Methods II** (TAM 542)
+      - **Numerical Fluid and Thermodynamics** (ME 412)
 
 - layout: left
   name: The Cooper Union

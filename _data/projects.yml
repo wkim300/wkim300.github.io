@@ -1,5 +1,19 @@
 # Project template
 - layout: top-middle
+  name: Training Lunar Lander with Deep Reinforcement Learning
+  link:
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+  #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    This work (see write-up [here](https://github.com/wkim300/dqn_lunarlander/blob/master/report/drl_lunarlander_wk.pdf)) presents a Deep Q-network (DQN) to solve Open AI Gym’s Lunar Lander environment.
+    The trained DQN successfully controls the space fleet in a continuous state-space, enabling safe landings.
+    The DQN utilizes three fully connected layers with rectifier nonlinearities to approximate the optimal action-value function.
+    Experience replay and bootstrapping method through network duplication were utilized to improve the network’s performance.
+    Extensive grid search was performed to fine-tune the network’s hyperparameters and study their effects on the agent’s performance
+
+
+- layout: top-middle
   name: Yuikhan Air-purifying Robot
   link: https://yuikhan.life
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)

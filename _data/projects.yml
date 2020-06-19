@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: Training Lunar Lander with Deep Reinforcement Learning
-  link:
+  link: https://github.com/wkim300/dqn_lunarlander
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   # quote: >
   #   Short overview of the project (optional)

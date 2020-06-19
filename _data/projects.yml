@@ -21,9 +21,11 @@
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     This work (see write-up [here](https://github.com/wkim300/ml_analysis_wine-adult/blob/master/report/adult-wine_report.pdf)) explores data-driven machine learning techniques;
-    five **classification algorithms**—decision tree, neural networks, AdaBoosted decision trees, support vector machines, k-nearest neighbors—were implemented on two different datasets: **adult income dataset** and **wine quality dataset**.
+    five **classification algorithms**—decision tree, neural networks, AdaBoosted decision trees, support vector machines, k-nearest neighbors—were implemented on two different datasets: 
+    **[adult income dataset](https://www.kaggle.com/wenruliu/adult-income-dataset)** and
+    **[wine quality dataset](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)**.
     After some data preprocessing, the algorithms were trained on both datasets through k-fold (k=10) cross-validation method.
-    During the training, learning curves and complexity curves were plotted. Then the trained models were tested on the unseen, 
+    During the training, learning curves and complexity curves were plotted. Then the trained models were tested on the unseen,
     held-out testing sets (20% of the entire datasets), and the resulting performances were analyzed utilizing various metrics, such as precision, recall and f1-score.
 
 - layout: top-middle

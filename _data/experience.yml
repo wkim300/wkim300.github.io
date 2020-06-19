@@ -2,7 +2,7 @@
 - layout: left
   company: ECODA
   link: http://www.ecoda.kr
-  job_title: Research Scientist/Systems Engineer
+  job_title: Technical Research Personnel
   dates: October 2017 - Present
   # quote: >
   #  Short description of the company (optional)
@@ -11,7 +11,8 @@
 
     BEMS is a **software for monitoring, analyzing and controlling energy-consuming equipments** in buildings, such as heating, ventilation and air conditioning (HVAC), lighting and power systems.
     Due to its **multidisciplinary** nature, BEMS engineering requires understanding and knowledge in various areas, including **software engineering, electrical engineering, computer network and mechanical engineering**.
-    I have collaborated with **Samsung Electronics** and **Samsung SDS** to test & deploy their [BEMS software](https://www.samsung.com/sec/business/b-iot-solutions/b-iot-solution/) in various [buildings](https://www.samsung.com/sec/business/insights/case-study/reference-sungsin/) in South Korea, as part of government-funded research project.
+    I have generated**machine learning models to predict building energy consumption** based on its historical data and attributes (e.g. location, usage, floor area, etc.)
+    I collaborated with **Samsung Electronics** and **Samsung SDS** to test & deploy their [BEMS software](https://www.samsung.com/sec/business/b-iot-solutions/b-iot-solution/) in various [buildings](https://www.samsung.com/sec/business/insights/case-study/reference-sungsin/) in South Korea, as part of government-funded research project.
 
 - layout: left
   company: University of Illinois at Urbana-Champaign (UIUC)

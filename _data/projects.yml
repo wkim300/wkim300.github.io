@@ -6,7 +6,7 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    This work (see write-up [here](https://github.com/wkim300/dqn_lunarlander/blob/master/report/drl_lunarlander_wk.pdf)) presents a Deep Q-network (DQN) to solve Open AI Gym’s Lunar Lander environment.
+    This work (see write-up [here](https://github.com/wkim300/dqn_lunarlander/blob/master/report/drl_lunarlander_wk.pdf)) presents a **Deep Q-network (DQN)** to solve Open AI Gym’s Lunar Lander environment.
     The trained DQN successfully controls the space fleet in a continuous state-space, enabling safe landings.
     The DQN utilizes three fully connected layers with rectifier nonlinearities to approximate the optimal action-value function.
     Experience replay and bootstrapping method through network duplication were utilized to improve the network’s performance.
@@ -20,8 +20,8 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    This work ([write-up](https://github.com/wkim300/ml_analysis_wine-adult/blob/master/report/adult-wine_report.pdf)) explores data-driven machine learning techniques;
-    five classification algorithms—decision tree, neural networks, AdaBoosted decision trees, support vector machines, k-nearest neighbors—were implemented on two different datasets: adult income dataset and wine quality dataset.
+    This work (see write-up [here](https://github.com/wkim300/ml_analysis_wine-adult/blob/master/report/adult-wine_report.pdf)) explores data-driven machine learning techniques;
+    five **classification algorithms**—decision tree, neural networks, AdaBoosted decision trees, support vector machines, k-nearest neighbors—were implemented on two different datasets: **adult income dataset** and **wine quality dataset**.
     After some data preprocessing, the algorithms were trained on both datasets through k-fold (k=10) cross-validation method.
     During the training, learning curves and complexity curves were plotted. Then the trained models were tested on the unseen, 
     held-out testing sets (20% of the entire datasets), and the resulting performances were analyzed utilizing various metrics, such as precision, recall and f1-score.

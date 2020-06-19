@@ -6,7 +6,8 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    This work (see write-up [here](https://github.com/wkim300/dqn_lunarlander/blob/master/report/drl_lunarlander_wk.pdf)) presents a **Deep Q-network (DQN)** to solve Open AI Gym’s Lunar Lander environment.
+    This work (see write-up [here](https://github.com/wkim300/dqn_lunarlander/blob/master/report/drl_lunarlander_wk.pdf)) presents a **Deep Q-network (DQN) with experience replay** to solve Open AI Gym’s Lunar Lander environment.
+    The core algorithm replicates that of the legendary **[Atari paper](https://arxiv.org/pdf/1312.5602.pdf)** by Minh et al. in 2013.
     The trained DQN successfully controls the space fleet in a continuous state-space, enabling safe landings.
     The DQN utilizes three fully connected layers with rectifier nonlinearities to approximate the optimal action-value function.
     Experience replay and bootstrapping method through network duplication were utilized to improve the network’s performance.
@@ -21,7 +22,7 @@
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     This work (see write-up [here](https://github.com/wkim300/ml_analysis_wine-adult/blob/master/report/adult-wine_report.pdf)) explores data-driven machine learning techniques;
-    five **classification algorithms**—decision tree, neural networks, AdaBoosted decision trees, support vector machines, k-nearest neighbors—were implemented on two different datasets: 
+    five **classification algorithms**—decision tree, neural networks, AdaBoosted decision trees, support vector machines, k-nearest neighbors—were implemented on two different datasets:
     **[adult income dataset](https://www.kaggle.com/wenruliu/adult-income-dataset)** and
     **[wine quality dataset](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)**.
     After some data preprocessing, the algorithms were trained on both datasets through k-fold (k=10) cross-validation method.
